@@ -1,2 +1,2 @@
 # test-repository
-This is a test repository made for my github course
+This is my test repository made for my github course
